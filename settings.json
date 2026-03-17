@@ -1,8 +1,8 @@
 {
-    "editor.formateOnSave": true,
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "editor.codeActionsOnSave": {
-        "source.fixAll": "always"
-    },
-    "editor.wordWrap": "on"
+	"editor.formateOnSave": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.codeActionsOnSave": {
+		"source.fixAll": "always"
+	},
+	"editor.wordWrap": "on"
 }
